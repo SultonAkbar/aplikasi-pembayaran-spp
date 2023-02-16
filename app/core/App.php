@@ -3,7 +3,7 @@
 class App
 {
     protected $controller = 'Auth';
-    protected $method = 'login';
+    protected $method = 'index';
     protected $params = [];
 
     public function __construct()
